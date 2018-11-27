@@ -1,0 +1,10 @@
+D:\etec\algoritmo c#\Salario Liquido\Salario Liquido\Salario Liquido\bin\Debug\Salario Liquido.exe.config
+D:\etec\algoritmo c#\Salario Liquido\Salario Liquido\Salario Liquido\bin\Debug\Salario Liquido.exe
+D:\etec\algoritmo c#\Salario Liquido\Salario Liquido\Salario Liquido\bin\Debug\Salario Liquido.pdb
+D:\etec\algoritmo c#\Salario Liquido\Salario Liquido\Salario Liquido\obj\Debug\Salario Liquido.csprojAssemblyReference.cache
+D:\etec\algoritmo c#\Salario Liquido\Salario Liquido\Salario Liquido\obj\Debug\Salario_Liquido.Form1.resources
+D:\etec\algoritmo c#\Salario Liquido\Salario Liquido\Salario Liquido\obj\Debug\Salario_Liquido.Properties.Resources.resources
+D:\etec\algoritmo c#\Salario Liquido\Salario Liquido\Salario Liquido\obj\Debug\Salario Liquido.csproj.GenerateResource.cache
+D:\etec\algoritmo c#\Salario Liquido\Salario Liquido\Salario Liquido\obj\Debug\Salario Liquido.csproj.CoreCompileInputs.cache
+D:\etec\algoritmo c#\Salario Liquido\Salario Liquido\Salario Liquido\obj\Debug\Salario Liquido.exe
+D:\etec\algoritmo c#\Salario Liquido\Salario Liquido\Salario Liquido\obj\Debug\Salario Liquido.pdb
